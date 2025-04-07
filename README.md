@@ -12,3 +12,4 @@ The distribution is based on DVV participation, according to the official rules 
 - Weekly distribution results
 
 - 22113034 (Mar-23-2025 11:59:59 PM +UTC) - 22163172 (Mar-30-2025 11:59:59 PM +UTC)
+- 22163172 (Mar-30-2025 11:59:59 PM +UTC) - 22213305 (Apr-06-2025 11:59:59 PM +UTC)
