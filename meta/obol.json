@@ -1,29 +1,83 @@
 {
-    "days_cycle": 7,
-    "distributions": [
-        [
-            22113034,
-            22163172
-        ],
-        [
-            22163172,
-            22213305
-        ],
-        [
-            22213305,
-            22263499
-        ],
-        [
-            22263499,
-            22313650
-        ],
-        [
-            22313650,
-            22363838
-        ],
-        [
-            22363838,
-            22413825
-        ]
-    ]
+  "days_cycle": 7,
+  "is_cumulative": false,
+  "distributions": {
+    "0": {
+      "period": [
+        20442326,
+        21622600
+      ],
+      "token_amount": {
+        "dvv": null,
+        "sdvt": null,
+        "csm": null
+      }
+    },
+    "1": {
+      "period": [
+        22113034,
+        22163172
+      ],
+      "token_amount": {
+        "dvv": null,
+        "sdvt": null,
+        "csm": null
+      }
+    },
+    "2": {
+      "period": [
+        22163172,
+        22213305
+      ],
+      "token_amount": {
+        "dvv": null,
+        "sdvt": null,
+        "csm": null
+      }
+    },
+    "3": {
+      "period": [
+        22213305,
+        22263499
+      ],
+      "token_amount": {
+        "dvv": null,
+        "sdvt": null,
+        "csm": null
+      }
+    },
+    "4": {
+      "period": [
+        22263499,
+        22313650
+      ],
+      "token_amount": {
+        "dvv": null,
+        "sdvt": null,
+        "csm": null
+      }
+    },
+    "5": {
+      "period": [
+        22313650,
+        22363838
+      ],
+      "token_amount": {
+        "dvv": null,
+        "sdvt": null,
+        "csm": null
+      }
+    },
+    "6": {
+      "period": [
+        22363838,
+        22413825
+      ],
+      "token_amount": {
+        "dvv": 42887348154042960314368,
+        "sdvt": 4745989987582980653056,
+        "csm": 6291456
+      }
+    }
+  }
 }
