@@ -430,6 +430,17 @@
                 "sdvt": null,
                 "csm": null
             }
+        },
+        "39": {
+            "period": [
+                24014285,
+                24064431
+            ],
+            "token_amount": {
+                "dvv": null,
+                "sdvt": null,
+                "csm": null
+            }
         }
     }
 }
