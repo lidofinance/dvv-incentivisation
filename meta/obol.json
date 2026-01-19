@@ -474,6 +474,17 @@
                 "sdvt": null,
                 "csm": null
             }
+        },
+        "43": {
+            "period": [
+                24214912,
+                24265091
+            ],
+            "token_amount": {
+                "dvv": null,
+                "sdvt": null,
+                "csm": null
+            }
         }
     }
 }
