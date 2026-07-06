@@ -800,8 +800,8 @@
                 25469763
             ],
             "token_amount": {
-                "dvv": null,
-                "sdvt": null,
+                "dvv": 0,
+                "sdvt": 52305918344407749230592,
                 "csm": null,
                 "curated": null
             },
