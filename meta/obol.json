@@ -943,8 +943,8 @@
                 26022169
             ],
             "token_amount": {
-                "dvv": null,
-                "sdvt": null,
+                "dvv": 0,
+                "sdvt": 30024264461641660235776,
                 "csm": null,
                 "curated": null
             },
