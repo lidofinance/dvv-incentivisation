@@ -1040,6 +1040,19 @@
                 "curated": null
             },
             "no_share": "0.50"
+        },
+        "86": {
+            "period": [
+                26373602,
+                26423854
+            ],
+            "token_amount": {
+                "dvv": null,
+                "sdvt": null,
+                "csm": null,
+                "curated": null
+            },
+            "no_share": "0.50"
         }
     }
 }
